@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\bin\Debug\netcoreapp3.1\Abstra-o.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\bin\Debug\netcoreapp3.1\Abstra-o.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\bin\Debug\netcoreapp3.1\Abstra-o.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\bin\Debug\netcoreapp3.1\Abstra-o.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\bin\Debug\netcoreapp3.1\Abstra-o.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\bin\Debug\netcoreapp3.1\Abstra-o.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\obj\Debug\netcoreapp3.1\Abstra-o.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\obj\Debug\netcoreapp3.1\Abstra-o.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\obj\Debug\netcoreapp3.1\Abstra-o.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\obj\Debug\netcoreapp3.1\Abstra-o.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\obj\Debug\netcoreapp3.1\Abstra-o.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\obj\Debug\netcoreapp3.1\Abstra-o.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Abstração\Abstra-o\obj\Debug\netcoreapp3.1\Abstra-o.genruntimeconfig.cache
